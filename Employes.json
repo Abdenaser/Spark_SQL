@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Abdenasser",
+    "phone": "0606409884",
+    "salary": 10000,
+    "age": 22,
+    "departement": "math_Info"
+  },
+  {
+    "id": 2,
+    "name": "Said",
+    "phone": "0645123260",
+    "salary": 2500,
+    "age": 20,
+    "departement": "Informatique"
+  },
+  {
+    "id": 3,
+    "name": "Amina",
+    "phone": "0652856521",
+    "salary": 15205,
+    "age": 30,
+    "departement": "physique"
+  },
+  {
+    "id": 4,
+    "name": "khalid",
+    "phone": "0678453209",
+    "salary": 10250,
+    "age": 44,
+    "departement": " Communication"
+  }
+]
